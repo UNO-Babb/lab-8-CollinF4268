@@ -1,7 +1,7 @@
 #ProcessData.py
-#Name:
-#Date:
-#Assignment:
+#Name: Collin Frederick 
+#Date: 4/6/25
+#Assignment: Student list
 
 import random
 
